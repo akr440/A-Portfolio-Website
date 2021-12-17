@@ -1,0 +1,67 @@
+.my-jump{
+  background: #4ff08f;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #67abf0, #72f3a6);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #55a3f0, #67f6a1);
+  color: white;
+  padding: 40px 30px !important;
+}
+.butn{
+    background: #36bb81;
+    color: #fff;
+    border: 2px solid transparent;
+}
+.butn:hover{
+    border-color: #57CC99;
+    background-color: #fff;
+    color: #57CC99;
+}
+
+section .button{
+  margin: 16px 0;
+  margin-top: 25px;
+}
+section .button a{
+  outline: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  font-size: 20px;
+  font-weight: 400;
+  background: #57CC99;
+  color: #fff;
+  border: 2px solid transparent;
+  cursor: pointer;
+  transition: all 0.4s ease;
+}
+section .button a:hover{
+  border-color: #57CC99;
+  background-color: #fff;
+  color: #57CC99;
+}
+
+
+.home-page {
+    margin: 16px 0;
+    margin-top: 25px;
+    padding-left: 20px;
+  }
+  .home-page button{
+    margin-top: 5px;  
+    outline: none;
+    padding: 8px 16px;
+    border-radius: 4px;
+    font-size: 20px;
+    font-weight: 400;
+    background: #57CC99;
+    color: #fff;
+    border: 2px solid transparent;
+    cursor: pointer;
+    transition: all 0.4s ease;
+  }
+  .home-page button:hover{
+    border-color: #57CC99;
+    background-color: #fff;
+    color: #57CC99;
+  }
+
+  
+  
